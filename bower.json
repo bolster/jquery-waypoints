@@ -1,0 +1,7 @@
+{
+  "name": "jquery-waypoints",
+  "version": "2.0.2",
+  "main": [
+    "./waypoints.js"
+  ]
+}
